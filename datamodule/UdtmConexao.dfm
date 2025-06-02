@@ -1,16 +1,24 @@
-object dtmConexao: TdtmConexao
+object dtmPrincipal: TdtmPrincipal
   Height = 480
   Width = 640
-  object ZConnection1: TZConnection
+  object ConexaoDB: TZConnection
     ControlsCodePage = cCP_UTF16
     Catalog = ''
+    Properties.Strings = (
+      'RawStringEncoding=DB_CP')
+    Connected = True
+    SQLHourGlass = True
     DisableSavepoints = False
-    HostName = ''
+    HostName = '.\SQLEXPRESS'
     Port = 0
-    Database = ''
+    Database = 
+      'Provider=SQLOLEDB.1;Integrated Security=SSPI;Persist Security In' +
+      'fo=False;Initial Catalog=vendas;Data Source=DESKTOP-30A17TH\SQLE' +
+      'XPRESS'
     User = ''
     Password = ''
-    Protocol = ''
+    Protocol = 'ado'
+    LibraryLocation = 'C:\Users\mateu\OneDrive\Documentos\GitHub\Delphi\ntwdblib.dll'
     Left = 200
     Top = 200
   end

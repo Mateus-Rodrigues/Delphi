@@ -6,8 +6,8 @@ uses
   System.SysUtils, System.Classes, ZAbstractConnection, ZConnection;
 
 type
-  TdtmConexao = class(TDataModule)
-    ZConnection1: TZConnection;
+  TdtmPrincipal = class(TDataModule)
+    ConexaoDB: TZConnection;
   private
     { Private declarations }
   public
@@ -15,7 +15,7 @@ type
   end;
 
 var
-  dtmConexao: TdtmConexao;
+  dtmPrincipal: TdtmPrincipal;
 
 implementation
 
