@@ -3,11 +3,10 @@ unit UdtmConexao;
 interface
 
 uses
-  System.SysUtils, System.Classes, ZAbstractConnection, ZConnection;
+  System.SysUtils, System.Classes;
 
 type
   TdtmConexao = class(TDataModule)
-    ZConnection1: TZConnection;
   private
     { Private declarations }
   public

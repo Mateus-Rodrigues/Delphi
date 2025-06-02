@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2025/06/02 12:26:25.940,=C:\Users\mateu\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
-    <Transaction>2025/06/02 12:27:51.213,C:\Users\mateu\OneDrive\Documentos\GitHub\Delphi\UPrincipal.dfm=C:\Users\mateu\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
-    <Transaction>2025/06/02 12:27:51.213,C:\Users\mateu\OneDrive\Documentos\GitHub\Delphi\UPrincipal.pas=C:\Users\mateu\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
-    <Transaction>2025/06/02 12:28:14.855,C:\Users\mateu\OneDrive\Documentos\GitHub\Delphi\Vendas.dproj=C:\Users\mateu\OneDrive\Documentos\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
-    <Transaction>2025/06/02 12:41:04.749,=C:\Users\mateu\OneDrive\Documentos\GitHub\Delphi\Unit1.pas</Transaction>
-    <Transaction>2025/06/02 12:42:30.699,C:\Users\mateu\OneDrive\Documentos\GitHub\Delphi\datamodule\UdtmConexao.dfm=C:\Users\mateu\OneDrive\Documentos\GitHub\Delphi\Unit1.dfm</Transaction>
-    <Transaction>2025/06/02 12:42:30.699,C:\Users\mateu\OneDrive\Documentos\GitHub\Delphi\datamodule\UdtmConexao.pas=C:\Users\mateu\OneDrive\Documentos\GitHub\Delphi\Unit1.pas</Transaction>
+	<Transactions>
+    <Transaction>2025/06/02 12:26:25.000.940,=C:\Users\mateu\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2025/06/02 12:27:51.000.213,C:\Users\mateu\OneDrive\Documentos\GitHub\Delphi\UPrincipal.dfm=C:\Users\mateu\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2025/06/02 12:27:51.000.213,C:\Users\mateu\OneDrive\Documentos\GitHub\Delphi\UPrincipal.pas=C:\Users\mateu\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2025/06/02 12:28:14.000.855,C:\Users\mateu\OneDrive\Documentos\GitHub\Delphi\Vendas.dproj=C:\Users\mateu\OneDrive\Documentos\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2025/06/02 12:41:04.000.749,=C:\Users\mateu\OneDrive\Documentos\GitHub\Delphi\Unit1.pas</Transaction>
+    <Transaction>2025/06/02 12:42:30.000.699,C:\Users\mateu\OneDrive\Documentos\GitHub\Delphi\datamodule\UdtmConexao.pas=C:\Users\mateu\OneDrive\Documentos\GitHub\Delphi\Unit1.pas</Transaction>
+    <Transaction>2025/06/02 12:42:30.000.699,C:\Users\mateu\OneDrive\Documentos\GitHub\Delphi\datamodule\UdtmConexao.dfm=C:\Users\mateu\OneDrive\Documentos\GitHub\Delphi\Unit1.dfm</Transaction>
   </Transactions>
 </BorlandProject>
