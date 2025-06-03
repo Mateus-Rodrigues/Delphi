@@ -134,8 +134,12 @@
             <FormType>dfm</FormType>
             <DesignClass>TDataModule</DesignClass>
         </DCCReference>
-        <DCCReference Include="heranca\Unit1.pas">
-            <Form>Form1</Form>
+        <DCCReference Include="heranca\UTelaHeranca.pas">
+            <Form>frmTelaHeranca</Form>
+            <FormType>dfm</FormType>
+        </DCCReference>
+        <DCCReference Include="cadastro\UcadCategoria.pas">
+            <Form>frmCadCategoria</Form>
             <FormType>dfm</FormType>
         </DCCReference>
         <BuildConfiguration Include="Base">
